@@ -1,5 +1,5 @@
 # GLSL-Hopf-Fibration
-GPU shader visualisation of the Hopf Firbration using raymarched rendering
+GPU shader visualisation of the Hopf Fibration using raymarched rendering
 
 ![](https://github.com/Tsmith3776/GLSL-Hopf-Fibration/blob/main/showcase.gif)
 
